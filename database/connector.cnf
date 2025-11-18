@@ -2,5 +2,5 @@
 user=root
 password=
 host=127.0.0.1
-database=gestione_energia
+database=gestione_energia1
 raise_on_warnings=True
